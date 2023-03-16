@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "survmixer"]
+	path = survmixer
+	url = https://github.com/martabofillroig/survmixer
+	shallow = true
+	registered = true
