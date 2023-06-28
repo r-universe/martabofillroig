@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CompAREdesign"]
 	path = CompAREdesign
 	url = https://github.com/cran/CompAREdesign
-	shallow = true
-	registered = true
 [submodule "eselect"]
 	path = eselect
 	url = https://github.com/cran/eselect
-	shallow = true
-	registered = true
 [submodule "survmixer"]
 	path = survmixer
 	url = https://github.com/martabofillroig/survmixer
-	shallow = true
-	registered = true
