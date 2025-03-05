@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CompAREdesign"]
-	path = CompAREdesign
-	url = https://github.com/cran/CompAREdesign
 [submodule "eselect"]
 	path = eselect
 	url = https://github.com/cran/eselect
